@@ -33,4 +33,4 @@ This is a locally hosted AI application that lets users input a **YouTube video 
 
 <!-- Add your project screenshot here -->
 
-![YouTube Video QnA System](Screenshot 2026-08-15 192706.png)
+![YouTube Video QnA System](Screenshot.png)

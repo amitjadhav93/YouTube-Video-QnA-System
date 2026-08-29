@@ -185,7 +185,4 @@ App will be available at → [http://localhost:5173](http://localhost:5173)
 - ⏳ **Session Expiry** – Automatically clean up sessions older than N hours
 - 🔗 **Timestamp Linking** – Jump straight to the moment an answer comes from
 - 🌍 **Multi-Language Support** – Support videos without an English transcript
-- 🔄 **Streaming Answers** – Stream LLM responses token-by-token instead of waiting for the full answer
-
----
-
+- 🔄 **Streaming Answers** – Stream LLM responses token-by-token instead of waiting for the full answer 

@@ -1,6 +1,6 @@
 # 🎬 YouTube Video QnA System
 
-**Transcript** (YouTube Video QnA System) is a Retrieval-Augmented Generation (RAG) chatbot that lets you paste in a YouTube video link and ask natural-language questions about it. It pulls the video's transcript, indexes it locally, and answers your questions using only what's actually said in the video — no rewatching, no scrubbing.
+**YouTube Video QnA System** is a Retrieval-Augmented Generation (RAG) chatbot that lets you paste in a YouTube video link and ask natural-language questions about it. It pulls the video's transcript, indexes it locally, and answers your questions using only what's actually said in the video — no rewatching, no scrubbing.
 
 Everything runs **locally**: transcripts are embedded with a local HuggingFace sentence-transformer and answered by a local **Ollama** LLM, so no external LLM API key is required.
 

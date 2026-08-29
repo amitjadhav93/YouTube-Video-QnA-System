@@ -29,13 +29,11 @@ Long-form video is one of the richest sources of information online — and one 
 
 ---
 
-<!--## 📸 Screenshots
+## 📸 Screenshot
 
-![](./screenshots/landing.png)
+![](./Screenshot.png)
 
-![](./screenshots/chat.png)
-
---- -->
+--- 
 
 ## 🛠️ Tech Stack
 

@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+vector_stores/
+!vector_stores/.gitkeep
+.venv/
+venv/
+*.egg-info/
+.pytest_cache/
+__init__.py
+
+node_modules/
+.env.example
